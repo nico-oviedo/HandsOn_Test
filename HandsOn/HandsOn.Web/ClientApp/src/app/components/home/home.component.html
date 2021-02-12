@@ -1,0 +1,41 @@
+<h3>HandsOn Test</h3>
+<label>Search by Employee Id or leave it blank in order to get all the employees.</label>
+
+<form [formGroup]="searchForm">
+  <div class="form-group">
+    <div class="form-row">
+      <div class="col">
+        <input class="home-input" formControlName="employeeId" type="number" min="1" max="99" placeholder="ID" />
+        <button class="btn btn-success" (click)="getEmployeesClick()">Get Employees</button>
+        <button class="btn btn-info" (click)="clearEmployeesClick()">Clear Employees</button>
+      </div>
+    </div>
+  </div>
+</form>
+
+<div *ngIf="employees && employees.length > 0">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>RoleName</th>
+        <th>Contract Type</th>
+        <th>Annual Salary</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employees">
+        <td>{{ employee.id }}</td>
+        <td>{{ employee.name }}</td>
+        <td>{{ employee.role.roleName }}</td>
+        <td>{{ employee.contract.contractTypeName | contractName }}</td>
+        <td>{{ employee.annualSalary | currency }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<span *ngIf="performingSearch">Performing search...</span>
+<span *ngIf="noResultsSearch">There is no results for Employee Id search.</span>
+

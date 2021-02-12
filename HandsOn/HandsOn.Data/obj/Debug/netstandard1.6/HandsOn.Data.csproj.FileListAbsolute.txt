@@ -1,0 +1,8 @@
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard1.6\HandsOn.Data.deps.json
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard1.6\HandsOn.Data.dll
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard1.6\HandsOn.Data.pdb
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard1.6\HandsOn.Data.csprojResolveAssemblyReference.cache
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard1.6\HandsOn.Data.AssemblyInfo.cs
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard1.6\HandsOn.Data.dll
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard1.6\HandsOn.Data.pdb
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard1.6\HandsOn.Entities.dll

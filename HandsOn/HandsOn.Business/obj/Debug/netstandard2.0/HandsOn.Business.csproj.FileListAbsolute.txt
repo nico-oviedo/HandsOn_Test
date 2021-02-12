@@ -1,0 +1,14 @@
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Business.deps.json
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Business.dll
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Business.pdb
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Data.dll
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Model.dll
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Data.pdb
+C:\_MG\HandsOn\HandsOn.Business\bin\Debug\netstandard2.0\HandsOn.Model.pdb
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.csprojAssemblyReference.cache
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.csproj.CoreCompileInputs.cache
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.AssemblyInfoInputs.cache
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.AssemblyInfo.cs
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.csproj.CopyComplete
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.dll
+C:\_MG\HandsOn\HandsOn.Business\obj\Debug\netstandard2.0\HandsOn.Business.pdb

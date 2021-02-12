@@ -1,0 +1,8 @@
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard2.0\HandsOn.Data.deps.json
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard2.0\HandsOn.Data.dll
+C:\_MG\HandsOn\HandsOn.Data\bin\Debug\netstandard2.0\HandsOn.Data.pdb
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard2.0\HandsOn.Data.csproj.CoreCompileInputs.cache
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard2.0\HandsOn.Data.AssemblyInfoInputs.cache
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard2.0\HandsOn.Data.AssemblyInfo.cs
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard2.0\HandsOn.Data.dll
+C:\_MG\HandsOn\HandsOn.Data\obj\Debug\netstandard2.0\HandsOn.Data.pdb
